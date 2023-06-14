@@ -6,9 +6,6 @@ package sub3;
  * 내용 : Java 반복문 for 실습하기 
  */
 public class ForTest {
-	
-	
-	
 	public static void main(String[] args) {
 		
 		// for
