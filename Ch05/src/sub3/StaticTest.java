@@ -30,7 +30,6 @@ class Increment {
 public class StaticTest {
 
 	public static void main(String[] args) {
-		
 		// Increment 실습
 		Increment inc1 = new Increment();
 		Increment inc2 = new Increment();

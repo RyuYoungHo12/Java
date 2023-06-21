@@ -26,8 +26,8 @@ class Adder {
 		y++;
 	}	
 	public void add(int[] arr) {
-		x += arr[0];
-		y += arr[1];
+		this.x += arr[0];
+		this.y += arr[1];
 	}	
 	public static void add(Adder a2) {
 		a2.x += 10;
