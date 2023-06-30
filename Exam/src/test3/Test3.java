@@ -1,0 +1,28 @@
+package test3;
+/*
+ * 자바 배열 역순으로 정렬 연습
+ */
+public class Test3 {
+	public static void main(String[] args) {
+		
+		int arr[] = {1,2,3,4,5,6,7,8,9,10};
+		
+		//현재 배열 출력
+
+		for(int i =0; i < arr.length; i++) {
+			System.out.println(arr[i]+", ");
+		}
+		System.out.println("\n");
+		
+		// 배열 원소 역순으로 정렬
+		for(int j=0; j < 5; j++) {
+			int temp = arr[j];
+			arr[j] = arr[9-j];
+			arr[9-j] = temp;
+		}
+		
+		for( int n : arr) {
+			System.out.print(n+", ");
+		}
+	}
+}
