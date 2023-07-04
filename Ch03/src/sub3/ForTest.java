@@ -2,7 +2,7 @@ package sub3;
 
 /**
  * 날짜 : 2023/06/13
- * 이름 : 김철학
+ * 이름 : 류영호
  * 내용 : Java 반복문 for 실습하기 
  */
 public class ForTest {
@@ -63,7 +63,7 @@ public class ForTest {
 		}
 		
 		// 별삼각형
-		for(int start=10 ; start >= 1 ; start--) {
+		for(int start=1 ; start <= 10 ; start++) {
 			
 			for(int end=1 ; end <= start ; end++) {
 				
