@@ -1,10 +1,10 @@
-package test1;
+package test;
 
 /*
  * 문제2. 다음과 같이 출력하는 프로그램을 작성하시오.
  * 
  */
-public class Test08 {
+public class Test2 {
 	public static void main(String[] args) {
 		
 		int n = 4; //n변수에 몇번째 줄까지 출력할지 값을 정해 대입

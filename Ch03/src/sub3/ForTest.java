@@ -63,9 +63,10 @@ public class ForTest {
 		}
 		
 		// 별삼각형
-		for(int start=1 ; start <= 10 ; start++) {
+		for(int start=1 ; start <= 5 ; start++) {
 			
 			for(int end=1 ; end <= start ; end++) {
+				
 				
 				System.out.print("★");
 				
