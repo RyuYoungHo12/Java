@@ -1,13 +1,11 @@
 package com.shop.vo;
 
 public class CustomerVO {
-
 	private String custId;
 	private String name;
 	private String hp;
 	private String addr;
 	private String rdate;
-	
 	
 	public String getCustId() {
 		return custId;
@@ -43,6 +41,4 @@ public class CustomerVO {
 	public void setRdate(String rdate) {
 		this.rdate = rdate;
 	}
-	
-	
 }
