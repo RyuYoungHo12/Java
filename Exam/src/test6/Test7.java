@@ -5,9 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /*
- * 날짜 : 0000/00/00
- * 이름 : 김철학
- * 내용 : 자바 총정리 연습문제
+ * 날짜 : 2023/07/18
+ * 이름 : 류영호
+ * 내용 : 자바 총 정리 연습문제
  */
 public class Test7 {
 	public static void main(String[] args) {

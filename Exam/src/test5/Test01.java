@@ -1,9 +1,9 @@
 package test5;
 
-/*
- * 날짜 : 0000/00/00
+/*/
+ * 날짜 : 2023/07/17
  * 이름 : 류영호
- * 내용 : 총정리 연습문제
+ * 내용 : 자바 총정리 연습문제
  */
 public class Test01 {
 	public static void main(String[] args) {
